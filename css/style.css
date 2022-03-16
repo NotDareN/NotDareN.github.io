@@ -23,13 +23,7 @@ body {
 }
 
 .card:hover .image .obrazok{
-    transform: scale(1.5)
-}
-
-.btn {
-    height: 140px;
-    width: 140px;
-    border-radius: 50%
+    transform: scale(1.3)
 }
 
 .name {
