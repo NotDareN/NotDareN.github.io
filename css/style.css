@@ -19,7 +19,11 @@ body {
     background-color: rgb(255, 255, 255);
 }
 .image img {
-    transition: all 0.5s
+    transition: all 0.5s;
+}
+
+.obrazok {
+    border-radius: 0.75cm;
 }
 
 .card:hover .image .obrazok{
@@ -57,7 +61,7 @@ body {
     border: none;
     background-color: #000;
     color: #aeaeae;
-    font-size: 15px
+    font-size: 15px;
 }
 
 .text span {
@@ -89,3 +93,6 @@ img {
     height: auto;  
     }  
     
+   body div .d-flex mt-2 {
+        padding: 1.5cm;
+    }
